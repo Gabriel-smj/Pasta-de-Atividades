@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bilhete Único</title>
+</head>
+
+<body>
+    <!--5. Economia com o Bilhete Único
+
+Um estudante recebeu o Bilhete Único de estudante pela primeira vez e deseja saber quanto vai economizar por mês. 
+O valor para estudante é metade do valor da passagem. Crie um programa que:  
+
+a) Pergunte a ele o valor da passagem  
+
+b) Pergunte a ele quantas viagens fará por mês  
+
+c) Ao clicar num botão "Ver economia", deve ver uma mensagem com uma frase como esta: "Você economizará R$X por mês"  -->
+
+    <label>
+        <span>Qual o valor da passagem ?</span><br>
+        <input type="text" id="valor_passagem" placeholder="Digite o valor da passagem!">
+    </label><br><br>
+    <label>
+        <span>Quantidades de viagens mensal?</span><br>
+        <input type="text" id="quant_viagens" placeholder="Digite o total de viagens!">
+    </label>
+
+    <button onclick="verEconomia()">Ver economia</button>
+
+    <div id="economia_msg"></div>
+</body>
+
+</html>
+
+<script>
+    function verEconomia() {
+        
+       economia_msg.innerHTML = `Você economizará R$  ${(valor_passagem.value * quant_viagens.value) / 2}  por mês`;
+       }
+</script>

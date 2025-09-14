@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Permissão para festa</title>
+</head>
+
+<body>
+    <!--1. Permissão para festa 
+Crie um programa que:   
+a) Pergunte ao usuário sua idade.   
+b) Ao clicar num botão "Ir pra festa":   
+b1) Caso a idade seja menor que 18, deve aparecer um alert com a frase "Pedir 
+permissão pro responsável"  
+b2) Sempre vai aparecer um alert com a palavra "#partiuFesta" ao final   
+OBS: caso tenha 18 anos ou mais, deve exibir somente a segunda mensagem. -->
+
+    <label>
+        <span>Qual sua idade?</span>
+        <input type="text" id="ipt_idade" placeholder="Digite sua idade...">
+    </label>
+    <button onclick="irFesta()">Ir Pra Festa</button>
+</body>
+
+
+</html>
+<script>
+   
+    function irFesta() {
+         var permissao = Number(ipt_idade.value)
+        if (permissao < 18) {
+            alert ('Pedir permissão pro responsável')
+        }  else {
+            alert ('#partiuFesta')
+        }
+    }
+</script>

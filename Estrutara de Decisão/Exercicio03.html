@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle de notas</title>
+</head>
+<body>
+    <!--3. Controle de notas  
+Paty é muito estudiosa e sua meta é sempre ser uma aluna fora de série. Na faculdade 
+onde estuda, os "fora de série" são os alunos com média acima de 9,4. Portanto, para 
+ajudá-la, crie um programa o qual:   
+a) Pergunte o valor de 3 notas   
+b) Ao clicar num botão "Analisar desempenho", calcule a média entre as notas e exiba 
+na tela a frase "Sua média foi de X", onde X é a média calculada   
+c) Somente caso a média for acima de 9,4 exibir também a frase "Parabéns, você é fora 
+de série!"   -->
+
+<label>
+    <span>Qual o valor da nota 1?</span><br>
+    <input type="text" id="ipt_notas1" placeholder="digite suas notas...">
+</label><br><br><label>
+    <span>Qual o valor da nota 2?</span><br>
+    <input type="text" id="ipt_notas2" placeholder="digite suas notas...">
+</label><br><br><label>
+    <span>Qual o valor da nota 3?</span><br>
+    <input type="text" id="ipt_notas3" placeholder="digite suas notas...">
+</label><br><br>
+<button onclick="analisarDesempenho()">Analisar desempenho</button>
+
+<div id="div_mensagem"></div>
+
+</body>
+</html>
+<script>
+    function analisarDesempenho() {
+         var n1 = Number(ipt_notas1.value)
+        var n2 = Number(ipt_notas2.value)
+        var n3 = Number(ipt_notas3.value)
+        var soma = n1+n2+n3 
+        var media = soma / 3
+        div_mensagem.innerHTML = `Sua média foi de ${media}<br>`
+        if (media > 9.4) {
+            div_mensagem.innerHTML += "Parabéns, você é fora de série!"
+        }   
+        }
+</script>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dividindo a Pizza</title>
+</head>
+
+<body>
+    <!--4. Dividindo a Pizza
+
+Todo mundo adora pizza! Existem para todos os gostos! 
+Crie um programa que ajude um grupo de amigos a saber quanto uma pizza vai custar para cada amigo.  
+
+a) Solicite o valor da pizza e a quantidade de amigos que vão dividir o valor.  
+
+b) Ao clicar num botão "#lovePizza", exiba uma mensagem com a frase  
+
+     "Cada um dos X amigos vai pagar R$Y"  
+
+Onde X é a quantidade de amigos e Y é o resultado do cálculo que seu programa fará  -->
+
+    <label>
+        <span>Pizza</span><br>
+        <input type="text" id="valor_pizza" placeholder="Digite o valor da pizza">
+    </label><br><br>
+    <label>
+        <span>Quantos amigos</span><br>
+        <input type="text" id="quant_amigos" placeholder="Quantidade de amigos ?">
+    </label><br><br>
+
+    <button onclick="lovePizza()">#lovepizza</button>
+
+    <div id="pizza_mensagem"></div>
+</body>
+
+</html>
+<script>
+    function lovePizza() {
+        pizza_mensagem.innerHTML = `Cada um dos ${quant_amigos.value} amigos vai pagar R$${valor_pizza.value / quant_amigos.value}`
+    }
+</script>

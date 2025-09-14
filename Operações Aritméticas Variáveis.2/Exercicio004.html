@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!--4. Controle de TVM de caldeira de geração energia elétrica
+
+A manutenção da caldeira de energia elétrica tem um tempo de vida de manutenção (TVM) de 1000 horas. 
+Sendo que eventos e utilização diária da caldeira diminuem o TVM e a cada manutenção realizada o TVM volta para 1000 horas.
+ Faça um programa para controlar o TVM sendo que:
+
+a) Receba a quantidade de dias de operação e tenha um botão “Processar DIAS”, 
+que quando clicado irá subtrair as horas desses dias (24 horas/dia) do TVM e emitir a mensagem (sem apagar as mensagens anteriores): 
+
+       O TVM anterior era de XXXX horas, após Y dias de operação o TVM passou para ZZZ horas
+
+        Sendo que: XXXX são as horas existentes no TVM antes da subtração.
+
+        Y é a quantidade de dias informado pelo usuário
+
+        ZZZ é o saldo do TVM após a subtração
+
+ 
+
+b) Tenha um botão “Stop Operação”, que quando clicado irá subtrair 100 horas do TVM e emitir a mensagem (sem apagar as mensagens anteriores):
+
+         O TVM anterior era de XXXX horas, após o Stop de operação o TVM passou para ZZZ horas
+
+         Sendo que: XXXX são as horas existentes no TVM antes da subtração.
+
+         ZZZ é o saldo do TVM após a subtração
+
+ 
+
+c) Tenha um botão “Reiniciar Processo”, que quando clicado irá alterar para 1000 horas o valor do TVM, 
+vai limpar as mensagens anteriores  e emitirá a mensagem:
+
+         Ainda existia  XXXX horas, com o reinicio do processo o TVM passou para 1000 horas
+
+         Sendo que: XXXX são as horas existentes no TVM antes da subtração.-->
+
+
+    <h1>Gestão do TVM de Caldeira</h1><br>
+
+    <label>
+
+        <span>Quantidade de dias de operação:</span>
+        <input type="text" id="ipt_dias">
+
+    </label>
+
+    <button onclick="processarDias()">Processar DIAS</button><br><br>
+    <button onclick="stopOperaçãos()">Stop Operação</button>
+    <button onclick="reiniciarProcesso()">Reiniciar Processo</button>
+
+    <div id="div_mensagem"></div>
+
+</body>
+
+</html>
+<script>
+    var dias = 0;
+    var tvm = 1000;
+    var subtracao = 0;
+    var saldo = 0;
+    var hrs = 0;
+    var stop = 0;
+
+
+    function variaveis() {
+        dias += Number(ipt_dias.value);
+        hrs = dias * 24;
+        subtracao = tvm - hrs;
+        saldo = subtracao + hrs;
+        stop = subtracao - 100;
+    }
+    function processarDias() {
+        variaveis()
+        div_mensagem.innerHTML +=
+            `<br> O TVM anterior era de ${subtracao} horas, após ${dias} dias de operação o TVM passou para ${hrs} horas <br>
+
+                Sendo que: ${tvm} são as horas existentes no TVM antes da subtração.<br>
+
+                ${dias} é a quantidade de dias informado pelo usuário <br>
+
+                ${subtracao} é o saldo do TVM após a subtração <br><br>`
+    }
+    function stopOperaçãos() {
+        variaveis()
+        div_mensagem.innerHTML +=
+            `O TVM anterior era de ${saldo} horas, após o Stop de operação o TVM passou para ${stop} horas<br>
+
+                Sendo que: ${tvm} são as horas existentes no TVM antes da subtração.<br>
+
+                ${stop} é o saldo do TVM após a subtração<br><br>`
+    }
+    function reiniciarProcesso() {
+        variaveis()
+        div_mensagem.innerHTML =
+            `Ainda existia  ${subtracao} horas, com o reinicio do processo o TVM passou para 1000 horas<br>
+
+                Sendo que: ${tvm} são as horas existentes no TVM antes da subtração.<br><br>`
+    }
+
+</script>
