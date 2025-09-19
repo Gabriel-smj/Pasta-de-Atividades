@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frequência do aluno</title>
+</head>
+<body>
+    <!--21. Análise de frequência do aluno
+
+Crie um programa o qual: 
+
+a) Solicita a frequência do aluno 
+
+b) Ao clicar em "Analisar frequência", deve aparecer, abaixo dele: 
+
+    A imagem de um turista, caso a frequência for menor que 50 OU 
+
+    A imagem de um aluno estudioso, caso a frequência for a partir de 50 -->
+
+
+    <label>
+        <span>Frequência do Aluno </span><br>
+        <input type="number" id="input_frequencia" placeholder="Digite sua frequência...">
+    </label><br><br>
+
+    <button onclick="analisarFrequencia()">Analisar frequência</button>
+
+    <div id="div_mensagem"></div>
+
+
+</body>
+</html>
+<script>
+    function analisarFrequencia() {
+        var frequencia = Number(input_frequencia.value);
+
+        if (frequencia < 50) {
+            div_mensagem.innerHTML = `<img src="https://media.istockphoto.com/id/1425171365/pt/vetorial/person-travel-with-suitcase-tourist-line-icon-vacation-journey-with-bag-vector-outline-sign.jpg?s=612x612&w=0&k=20&c=TyFkYK_-6MuznR6o-c3Io-w1nJRye4zbDl5B_vmIjJA=" alt="Turista">`;
+        } else {
+            div_mensagem.innerHTML = `<img src="https://thumbs.dreamstime.com/b/%C3%ADcone-do-estudante-71302919.jpg" alt="Estudioso">`;
+        }
+    }
+</script>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   <!-- 
+      A tag <select></select> é uma caixa de seleção, que representa uma lista de opções para o usuário selecionar
+      A tag <option></option> representa UMA OPÇÃO disponível na CAIXA DE SELEÇÃO
+
+      value="X" - é um atributo que indica o valor da opção, que quando selecionada, será o valor da select
+         OBS: O VALUE NÃO É OBRIGATÓRIO! - por padrão, pega o conteúdo da option
+            - se não utilizar o value="", o JS reconhece que o texto dentro do conteúdo da option será o seu próprio valor (como nas opções "Vermelha", "Verde", "Azul" e "Amarela", no código abaixo)
+      selected - é um atributo que indica que a opção já nasce selecionada (por padrão, seleciona a primeira)
+      disabled - é um atributo que indica que a opção não pode ser selecionada (está desabilitada)
+   -->
+
+   <select id="select_opcao">
+      <option>Vermelha</option>
+      <option>Azul</option>
+      <option>Amarela</option>
+      <option value="1000">Numero Mil</option>
+      <option value="">Sem valor</option>
+      <option selected disabled value="#">Selecione uma opção</option>
+   </select>
+
+   <button onclick="exibir()">Exibir</button>
+   <div id="div_mensagem"></div>
+</body>
+</html>
+
+<script>
+   function exibir() {
+      // obtém o valor da opção que está selecionada naquele momento e armazena na variável
+      var opcao = select_opcao.value; // IGUAL A INPUT! MAS TEM VALORES RESTRITOS ÀS OPÇÕES!
+
+      div_mensagem.innerHTML = `Opção Selecionada: ${opcao}`; // utiliza a variável para atualizar o conteúdo da div
+   }
+</script>

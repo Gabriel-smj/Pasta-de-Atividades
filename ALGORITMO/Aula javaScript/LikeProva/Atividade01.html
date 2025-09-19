@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle de Corridas</title>
+</head>
+
+<body>
+    <!--Sprint-1 – Atividade Avaliativa
+
+ 
+
+OBS: devem ser utilizados apenas comandos ensinados na disciplina de Algoritmos.
+
+Sr. Rebú é um motorista de aplicativo da pacata cidade de Piedade-SP. Ele está precisando de um programa para fazer o Controle Diário de Viagens, para isso tenha:
+
+a)      Distância da Corrida (em km)
+
+b)     O Valor do Pedágio
+
+c)      Bandeira (o valor será somente 1, 2 ou 3)
+
+d)     Botão “Acumular corrida realizada” que quando clicado emitirá a mensagem abaixo sem apagar as anteriores.
+
+XXª corrida de YYY km com valor de R$ zzzz,zz – ACUMULADO DO DIA R$ 999,99
+
+ -->
+
+    <labal>
+        <span>Distância da Corrida</span><br>
+        <input type="number" id="ipt_distancia" placeholder="Digite a distância...">
+    </labal><br><br>
+
+    <labal>
+        <span>Valor do Pedágio</span><br>
+        <input type="number" id="ipt_pedagio" placeholder="Digite o pedagio...">
+    </labal><br><br>
+
+    <labal>
+        <span>Bandeira (o valor será somente 1, 2 ou 3)</span><br>
+        <input type="number" id="ipt_bandeira" placeholder="Qual a bandeira?">
+    </labal><br><br>
+
+    <button onclick="corrida()">Acumular corrida realizada</button>
+
+    <div id="div_mensagem"></div>
+</body>
+
+</html>
+<script>
+    function corrida() {
+        var distancia = Number(ipt_distancia.value);
+        var pedagio = Number(ipt_pedagio.value);
+        var bandeira = Number(ipt_bandeira.value);
+        var valorCorrida = distancia / 8 * 10;
+        var desconto = valorCorrida * 0.10;
+        var valorFinal = valorCorrida - desconto;
+        bandeira = 
+        console.log(valorFinal);
+
+
+       
+
+    }
+
+</script>

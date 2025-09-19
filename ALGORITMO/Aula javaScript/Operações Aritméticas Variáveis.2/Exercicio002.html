@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+
+<body>
+    <!--2.  Depósito e Retirada de dinheiro
+
+Crie um programa que:  
+
+a) Solicite o valor a ser depositado/retirado pelo usuário 
+
+b) Tenha os botões “Depositar” e “Retirar”. Ao clicar em algum deles, 
+exibe uma mensagem com uma das frases abaixo, de acordo com o botão que foi clicado:  
+
+   - Depósito de R$X efetuado! Saldo atual: R$Y 
+
+   - Retirada de R$X efetuada! Saldo atual: R$Y 
+
+OBS: o valor do saldo atual se inicia em 0, para depois ir reduzindo/incrementando de acordo com a operação realizada
+ -->
+
+    <label>
+        <span>Valor:</span>
+        <input type="text" id="ipt_valor" placeholder="Digite o valor...">
+    </label><br><br>
+
+
+    <button onclick="depositar()">Depositar</button><br>
+    <button onclick="retirar()">Retirar</button><br>
+
+    <div id="div_mensagem"></div>
+
+</body>
+
+</html>
+<script>
+    var saldo = 0;
+    var valor = 0;
+  
+    function depositar() {
+       valor = Number(ipt_valor.value);
+        saldo += valor;
+        
+        div_mensagem.innerHTML = "Depósito de R$" + valor + " efetuado! Saldo atual: R$" + saldo;
+    }
+    function retirar() {
+     valor = Number(ipt_valor.value);
+        saldo -= valor;
+
+        div_mensagem.innerHTML = "Retirada de R$" + valor + " efetuado! Saldo atual: R$" + saldo;
+    }
+</script>

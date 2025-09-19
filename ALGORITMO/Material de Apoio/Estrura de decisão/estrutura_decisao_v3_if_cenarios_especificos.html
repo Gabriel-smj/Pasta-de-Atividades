@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   Insira um número:
+   <input type="text" id="input_num">
+   <button onclick="verificar()">Verificar Número</button>
+   <div id="div_mensagem"></div>
+</body></html><script>
+   function verificar() {
+      var num = Number(input_num.value);
+      div_mensagem.innerHTML = `Número inserido: ${num}`;
+      
+      // valida se o número é igual a 50, para executar o bloco
+      if (num > 50) {
+         div_mensagem.innerHTML += `<br>O número ${num} é maior que 50!`;
+      }
+
+      // independentemente do resultado anterior, o comando IF realiza uma nova validação
+      if (num < 50) {
+         div_mensagem.innerHTML += `<br>O número ${num} é menor ou igual a 50!`;
+      }
+
+      // independentemente do resultado anterior, o comando IF realiza uma nova validação
+      if (num == 50) {
+         div_mensagem.innerHTML += `<br>O número é EXATAMENTE 50!`;
+      }
+
+      // ou seja, de acordo com sua lógica, pode criar várias decisões específicas utilizando o IF
+      // ao final da estrutura de decisão (chave de fechamento '}'), continua a execução do código da função normalmente
+      // cada comando IF é reconhecido como uma nova decisão, onde realiza a condição e executa (ou não) o trecho de código
+      // portanto, precisamos conferir se as validações e comportamentos do programa estão adequados às decisões necessárias
+   }
+</script>

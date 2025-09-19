@@ -1,0 +1,1106 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6" pages="10">
+  <diagram name="Exercicio 1" id="fKbJEGDx2wL1Hd1ZOSZA">
+    <mxGraphModel dx="872" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NHGI-NXs6u0aMLVJtdDp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NHGI-NXs6u0aMLVJtdDp-1" target="NHGI-NXs6u0aMLVJtdDp-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHGI-NXs6u0aMLVJtdDp-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#1bbe13, #1f2f1e);strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NHGI-NXs6u0aMLVJtdDp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NHGI-NXs6u0aMLVJtdDp-2" target="NHGI-NXs6u0aMLVJtdDp-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHGI-NXs6u0aMLVJtdDp-2" value="Receber primeira nota&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;N1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHGI-NXs6u0aMLVJtdDp-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NHGI-NXs6u0aMLVJtdDp-13" target="NHGI-NXs6u0aMLVJtdDp-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHGI-NXs6u0aMLVJtdDp-13" value="Receber segunda nota&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;N2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHGI-NXs6u0aMLVJtdDp-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NHGI-NXs6u0aMLVJtdDp-15" target="NHGI-NXs6u0aMLVJtdDp-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHGI-NXs6u0aMLVJtdDp-15" value="Calcular média&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;media = (n1+n2) /2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHGI-NXs6u0aMLVJtdDp-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NHGI-NXs6u0aMLVJtdDp-17" target="NHGI-NXs6u0aMLVJtdDp-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHGI-NXs6u0aMLVJtdDp-17" value="Exibir $(media)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHGI-NXs6u0aMLVJtdDp-19" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#FF0000;strokeColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="760" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yOwkB1NaBbtb4KbaGHVR" name="Exercicio 2">
+    <mxGraphModel dx="1246" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fKltd-Stna2HZR5J8VHK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fKltd-Stna2HZR5J8VHK-3" target="fKltd-Stna2HZR5J8VHK-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-3" value="Receber primeira nota&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;N1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fKltd-Stna2HZR5J8VHK-5" target="fKltd-Stna2HZR5J8VHK-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-5" value="Receber segunda nota&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;N2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fKltd-Stna2HZR5J8VHK-7" target="fKltd-Stna2HZR5J8VHK-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-7" value="Calcular média&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;media = (n1+n2) /2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-10" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#FF0000;strokeColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fKltd-Stna2HZR5J8VHK-11" target="fKltd-Stna2HZR5J8VHK-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fKltd-Stna2HZR5J8VHK-15" target="fKltd-Stna2HZR5J8VHK-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fKltd-Stna2HZR5J8VHK-15" target="fKltd-Stna2HZR5J8VHK-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-15" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fKltd-Stna2HZR5J8VHK-18" target="fKltd-Stna2HZR5J8VHK-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-18" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;Exibir &quot;#partiuestágio&quot;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="820" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fKltd-Stna2HZR5J8VHK-20" target="fKltd-Stna2HZR5J8VHK-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-20" value="&lt;div&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Exibir&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&quot;#partiutentardenovo&quot;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="820" y="330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-22" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;média &amp;gt;=5&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="675" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fKltd-Stna2HZR5J8VHK-24" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;média&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; text-wrap-mode: wrap;&quot;&gt;&amp;lt;5&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="680" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fBNQTzSp8yRZmiYa5r00" name="Exercicio 3">
+    <mxGraphModel dx="2303" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IfK6pthuK03d7tAPfuIL-1" value="&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;3.&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Crie um diagrama de atividade que represente o seguinte programa:&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;a)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;O usuário informa seu sexo e sua idade&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;b)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Caso seja homem e menor de 18 anos, exiba &quot;Você é homem e menino&quot;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;c)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Caso seja homem e idade a partir de 18 anos, exiba &quot;Você é homem maior de idade&quot;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;d)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Caso seja mulher e menor de 18 anos, exiba &quot;Você é mulher e menina&quot;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;e)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Caso seja mulher e idade a partir de 18 anos, exiba &quot;Você é mulher maior de idade&quot;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-840" y="340" width="560" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bbNzc57KDiKmBR81KGN4-37" target="bbNzc57KDiKmBR81KGN4-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66FF66;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="710" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bbNzc57KDiKmBR81KGN4-39" target="bbNzc57KDiKmBR81KGN4-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-39" value="Receber&amp;nbsp;&lt;div&gt;Idade&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-750" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bbNzc57KDiKmBR81KGN4-41" target="bbNzc57KDiKmBR81KGN4-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-41" value="Receber&lt;div&gt;Sexo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-590" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bbNzc57KDiKmBR81KGN4-44" target="bbNzc57KDiKmBR81KGN4-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-400" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bbNzc57KDiKmBR81KGN4-44" target="bbNzc57KDiKmBR81KGN4-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-400" y="918" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-44" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bbNzc57KDiKmBR81KGN4-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-220" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bbNzc57KDiKmBR81KGN4-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-220" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-47" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bbNzc57KDiKmBR81KGN4-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-220" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bbNzc57KDiKmBR81KGN4-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-220" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-50" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="878" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-51" value="SE Sexo = Homen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="610" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-52" value="SE Sexo = Mulher" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="910" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="bbNzc57KDiKmBR81KGN4-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="550" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="bbNzc57KDiKmBR81KGN4-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-55" value="Idade &amp;lt;18" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-56" value="Idade &amp;gt;=18" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="700" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bbNzc57KDiKmBR81KGN4-58" target="bbNzc57KDiKmBR81KGN4-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-58" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;exiba&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&quot;Você é homem e menino&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bbNzc57KDiKmBR81KGN4-60" target="bbNzc57KDiKmBR81KGN4-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-60" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;exiba&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&quot;Você é homem maior de idade&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="bbNzc57KDiKmBR81KGN4-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="830" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="bbNzc57KDiKmBR81KGN4-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="990" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-63" value="Idade &amp;lt;18" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="810" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-64" value="Idade &amp;gt;=18" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="980" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="bbNzc57KDiKmBR81KGN4-66" target="bbNzc57KDiKmBR81KGN4-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="106" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-66" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;exiba&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&quot;Você é mulher e menina&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="bbNzc57KDiKmBR81KGN4-68" target="bbNzc57KDiKmBR81KGN4-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="988" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-68" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;exiba&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&quot;Você é mulher maior de idade&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="958" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bbNzc57KDiKmBR81KGN4-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="100" y="760" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="C3RNZNkqq-PtnwRPsL6x" name="Exercio 4">
+    <mxGraphModel dx="2435" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bTg-nqZLe3261-rVpzqs-1" value="&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;4.&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Crie um diagrama de atividade que represente o seguinte programa:&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;a)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;O usuário informa quantas horas por noite dorme&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;b)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Caso ele durma de 0 a 4, exiba &quot;#zumbi&quot;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;c)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Caso ele durma mais de 4 até menos de 7, exiba &quot;Pouca concentração&quot;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;d)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Caso ele durma de 7 a 9, exiba &quot;Boa concentração&quot;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;e)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Caso ele durma mais de 9, exiba &quot;Olha a preguiça!&quot;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="450" width="1270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yxUzkVb76bHo_MG0qZdn-20" target="yxUzkVb76bHo_MG0qZdn-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;strokeColor=#005700;fillStyle=auto;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="630" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yxUzkVb76bHo_MG0qZdn-22" target="yxUzkVb76bHo_MG0qZdn-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-22" value="RECEBER&amp;nbsp;&lt;div&gt;HORAS DE SONO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Horas&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yxUzkVb76bHo_MG0qZdn-25" target="yxUzkVb76bHo_MG0qZdn-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-170" y="530" />
+              <mxPoint x="-170" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yxUzkVb76bHo_MG0qZdn-25" target="yxUzkVb76bHo_MG0qZdn-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-25" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="yxUzkVb76bHo_MG0qZdn-26" target="yxUzkVb76bHo_MG0qZdn-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="412" as="sourcePoint" />
+            <mxPoint x="644.142135623767" y="545.8578643762335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-170" y="420" />
+              <mxPoint x="644" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-26" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Exibir &quot;#zumbi&quot;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-250" y="470" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yxUzkVb76bHo_MG0qZdn-29" target="yxUzkVb76bHo_MG0qZdn-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yxUzkVb76bHo_MG0qZdn-29" target="yxUzkVb76bHo_MG0qZdn-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-29" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="yxUzkVb76bHo_MG0qZdn-30" target="yxUzkVb76bHo_MG0qZdn-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="436" as="sourcePoint" />
+            <mxPoint x="640" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-30" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Exibir&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&quot;Pouca concentração&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="470" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-31" value="Se Horas &amp;lt;4&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-250" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-32" value="Se Horas &amp;gt;4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="630" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-33" value="Se Horas &amp;lt;7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="570" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yxUzkVb76bHo_MG0qZdn-36" target="yxUzkVb76bHo_MG0qZdn-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yxUzkVb76bHo_MG0qZdn-36" target="yxUzkVb76bHo_MG0qZdn-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-36" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yxUzkVb76bHo_MG0qZdn-37" target="yxUzkVb76bHo_MG0qZdn-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-37" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Exibir&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&quot;Boa concentração&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="470" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-38" value="Se Horas &amp;gt;7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="628" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-39" value="Se Horas &amp;lt;= 9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="205" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yxUzkVb76bHo_MG0qZdn-41" target="yxUzkVb76bHo_MG0qZdn-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-41" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Exibir&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&quot;Olha a preguiça!&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="620" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-42" value="Se Horas &amp;gt;9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="628" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yxUzkVb76bHo_MG0qZdn-43" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="610" y="630" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FIEvPOYDdSg6eL3q8iPi" name="Exercicio 5">
+    <mxGraphModel dx="2180" dy="2443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m7klMX8DUVEfjWO4Dm9b-1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; margin-top: 0px; margin-bottom: 1rem; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder;&quot;&gt;5.&lt;/strong&gt;&amp;nbsp;Crie um diagrama de atividade que represente o seguinte programa:&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder;&quot;&gt;a)&lt;/strong&gt;&amp;nbsp;O usuário informa o salário de estagiário e o valor da faculdade.&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder;&quot;&gt;b)&lt;/strong&gt;&amp;nbsp;O programa calcula a média diária salário líquido (salário – faculdade). Considerar 30 dias&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder;&quot;&gt;c)&lt;/strong&gt;&amp;nbsp;Caso a média seja menor que 15, exibir “#controletotal”&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder;&quot;&gt;d)&lt;/strong&gt;&amp;nbsp;Caso a média esteja entre 15 e 20, exibir “#ragazzonosabado”&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder;&quot;&gt;e)&lt;/strong&gt;&amp;nbsp;Caso a média seja maior que 20 e menor 25, exibir “#cinemanamorada”&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder;&quot;&gt;f)&lt;/strong&gt;&amp;nbsp;Caso a média é de 25 a 30, exibir “#novogame”&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder;&quot;&gt;g)&lt;/strong&gt;&amp;nbsp;Caso a média seja maior que 30, exibir “#tobonito”&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; margin-top: 0px; margin-bottom: 1rem; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&amp;nbsp;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-190" width="560" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="m7klMX8DUVEfjWO4Dm9b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="m7klMX8DUVEfjWO4Dm9b-2" target="m7klMX8DUVEfjWO4Dm9b-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7klMX8DUVEfjWO4Dm9b-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry y="330" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aZqJF03qg-E9blr5bNjH-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m7klMX8DUVEfjWO4Dm9b-6" target="aZqJF03qg-E9blr5bNjH-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7klMX8DUVEfjWO4Dm9b-6" value="Receber&lt;div&gt;valor do salario&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Salario&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zLzn8JhMpOurAYRvL5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aZqJF03qg-E9blr5bNjH-1" target="J-zLzn8JhMpOurAYRvL5-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aZqJF03qg-E9blr5bNjH-1" value="Receber&lt;div&gt;valor do faculdade&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Faculdade&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J-zLzn8JhMpOurAYRvL5-6" target="NnFKp5f9gimKOpDYPxNf-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zLzn8JhMpOurAYRvL5-6" value="Calcular media&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Media=$(salario-faculdade)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="320" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NnFKp5f9gimKOpDYPxNf-3" target="NnFKp5f9gimKOpDYPxNf-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NnFKp5f9gimKOpDYPxNf-3" target="NnFKp5f9gimKOpDYPxNf-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-3" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NnFKp5f9gimKOpDYPxNf-5" target="NnFKp5f9gimKOpDYPxNf-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="697" y="80.00000000000001" as="sourcePoint" />
+            <mxPoint x="1890" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="130" />
+              <mxPoint x="1830" y="130" />
+              <mxPoint x="1830" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-5" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Exibir “#controletotal”&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-7" value="Se Media &amp;lt;15" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="630" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NnFKp5f9gimKOpDYPxNf-10" target="NnFKp5f9gimKOpDYPxNf-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NnFKp5f9gimKOpDYPxNf-10" target="NnFKp5f9gimKOpDYPxNf-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-10" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="870" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="NnFKp5f9gimKOpDYPxNf-13" target="NnFKp5f9gimKOpDYPxNf-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="60" as="sourcePoint" />
+            <mxPoint x="1825" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="140" />
+              <mxPoint x="1820" y="140" />
+              <mxPoint x="1820" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-13" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Exibir “#ragazzonosabado”&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="835" y="180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-15" value="Se Media =15" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="760" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-16" value="Se Media &amp;lt;= 20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="810" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NnFKp5f9gimKOpDYPxNf-17" target="NnFKp5f9gimKOpDYPxNf-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NnFKp5f9gimKOpDYPxNf-17" target="NnFKp5f9gimKOpDYPxNf-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-17" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.547;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NnFKp5f9gimKOpDYPxNf-19" target="NnFKp5f9gimKOpDYPxNf-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="114" as="sourcePoint" />
+            <mxPoint x="1810.0021356237305" y="239.99786437626938" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1117" y="150" />
+              <mxPoint x="1804" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-19" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;exibir “#cinemanamorada”&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1035" y="180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-21" value="Se Media &lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;gt;&amp;nbsp;&lt;/span&gt;20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="960" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-22" value="Se Media &amp;lt; 25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NnFKp5f9gimKOpDYPxNf-23" target="NnFKp5f9gimKOpDYPxNf-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NnFKp5f9gimKOpDYPxNf-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1450" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-23" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="NnFKp5f9gimKOpDYPxNf-25" target="NnFKp5f9gimKOpDYPxNf-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="151" as="sourcePoint" />
+            <mxPoint x="1780" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1290" y="160" />
+              <mxPoint x="1790" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-25" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Exibir “#novogame”&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-27" value="Se Media = 25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-28" value="Se Media &amp;lt;=30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-33" value="Se Media &lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;gt; 30&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NnFKp5f9gimKOpDYPxNf-34" target="NnFKp5f9gimKOpDYPxNf-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-34" value="&lt;p style=&quot;text-align: left; box-sizing: border-box; font-family: Barlow, sans-serif; margin-top: 0px; margin-bottom: 1rem; color: rgb(29, 33, 37); font-size: 15px; background-color: rgb(255, 255, 255);&quot; class=&quot;MsoNormal&quot;&gt;Exibir “#tobonito”&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1450" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NnFKp5f9gimKOpDYPxNf-35" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="1770" y="330" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rHgww6M35-Tnz7-WrIHl" name="Exercicio 6">
+    <mxGraphModel dx="1585" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vh3FyJT8mbQ4ggVp188Y-1" value="&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;6.&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Crie um diagrama de atividade que represente o seguinte programa:&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;a)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;O usuário informa três números quaisquer&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;b)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;O programa lista os três números em ordem crescente&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="188" width="510" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3FyJT8mbQ4ggVp188Y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vh3FyJT8mbQ4ggVp188Y-2" target="vh3FyJT8mbQ4ggVp188Y-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="465" />
+              <mxPoint x="70" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3FyJT8mbQ4ggVp188Y-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry y="445" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3FyJT8mbQ4ggVp188Y-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vh3FyJT8mbQ4ggVp188Y-3" target="vh3FyJT8mbQ4ggVp188Y-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3FyJT8mbQ4ggVp188Y-3" value="RECEBER PRIMEIRO&amp;nbsp; NUMERO&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;N1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3FyJT8mbQ4ggVp188Y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vh3FyJT8mbQ4ggVp188Y-7" target="vh3FyJT8mbQ4ggVp188Y-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3FyJT8mbQ4ggVp188Y-7" value="RECEBER SEGUNDO NUMERO&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;N2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3FyJT8mbQ4ggVp188Y-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vh3FyJT8mbQ4ggVp188Y-9" target="vh3FyJT8mbQ4ggVp188Y-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3FyJT8mbQ4ggVp188Y-9" value="RECEBER TERCEIRO NUMERO&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;N3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vh3FyJT8mbQ4ggVp188Y-13" target="fGjVq-YDGy5OOY7ltKfd-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vh3FyJT8mbQ4ggVp188Y-13" target="ZfrkBvBfPv3E3ZpLwmSX-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vh3FyJT8mbQ4ggVp188Y-13" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="715" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vh3FyJT8mbQ4ggVp188Y-20" value="SE N1&amp;gt;N2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="750" y="540" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fGjVq-YDGy5OOY7ltKfd-84" target="fGjVq-YDGy5OOY7ltKfd-88" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="fGjVq-YDGy5OOY7ltKfd-92" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890.0588235294119" y="609.9988235294122" as="sourcePoint" />
+            <mxPoint x="950" y="499.94" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fGjVq-YDGy5OOY7ltKfd-84" target="fGjVq-YDGy5OOY7ltKfd-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-84" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="850" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-85" value="SE N3 &amp;gt; N2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="940" y="595" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fGjVq-YDGy5OOY7ltKfd-86" target="ZfrkBvBfPv3E3ZpLwmSX-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-86" value="Exibir&lt;div&gt;N1,N3,N2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1055" y="595" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fGjVq-YDGy5OOY7ltKfd-88" target="fGjVq-YDGy5OOY7ltKfd-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-88" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="930" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-89" value="SE N2 &amp;gt;= N3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="880" y="700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fGjVq-YDGy5OOY7ltKfd-90" target="ZfrkBvBfPv3E3ZpLwmSX-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-90" value="Exibir&lt;div&gt;N1,N2,N3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1055" y="730" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fGjVq-YDGy5OOY7ltKfd-92" target="fGjVq-YDGy5OOY7ltKfd-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-92" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="930" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-93" value="SE N3 &amp;gt;N1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="885" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fGjVq-YDGy5OOY7ltKfd-95" target="fGjVq-YDGy5OOY7ltKfd-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-95" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1115" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-96" value="SE N2 &amp;gt; N1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="470" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fGjVq-YDGy5OOY7ltKfd-97" target="ZfrkBvBfPv3E3ZpLwmSX-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fGjVq-YDGy5OOY7ltKfd-97" value="Exibir&amp;nbsp;&lt;div&gt;N3, N2, N1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1255" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZfrkBvBfPv3E3ZpLwmSX-1" target="ZfrkBvBfPv3E3ZpLwmSX-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZfrkBvBfPv3E3ZpLwmSX-1" target="ZfrkBvBfPv3E3ZpLwmSX-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-1" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-5" value="SE N2 &amp;gt;N1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="750" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZfrkBvBfPv3E3ZpLwmSX-6" target="ZfrkBvBfPv3E3ZpLwmSX-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-6" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-8" value="N3 &amp;gt; N1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="905" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZfrkBvBfPv3E3ZpLwmSX-9" target="ZfrkBvBfPv3E3ZpLwmSX-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-9" value="Exibir&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;N2, N3,N1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1185" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZfrkBvBfPv3E3ZpLwmSX-11" target="ZfrkBvBfPv3E3ZpLwmSX-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-11" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="920" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-15" value="N1 &amp;gt; N3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="785" y="188" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZfrkBvBfPv3E3ZpLwmSX-16" target="ZfrkBvBfPv3E3ZpLwmSX-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-16" value="Exibir&lt;div&gt;N2,N1, N3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1095" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrkBvBfPv3E3ZpLwmSX-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AfKXv2usamfAIo6chsRq" name="Exercicio 7">
+    <mxGraphModel dx="1163" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zzds2tyId_I9XVk5ybxF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zzds2tyId_I9XVk5ybxF-2" target="zzds2tyId_I9XVk5ybxF-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zzds2tyId_I9XVk5ybxF-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zzds2tyId_I9XVk5ybxF-3" target="Bz8TW6A_p7IAcZvbwfBZ-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zzds2tyId_I9XVk5ybxF-3" value="Receber&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Quantidade De Filhos Menores De 18 anos&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TOTALFILHOS&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="425" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QV3TSokJPXYx2DKA6yWl-1" value="&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;7.&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Num determinado país existe algo chamado Bolsa Criançada. De acordo com a quantidade de filhos, o governo dá um auxílio à família. Crie um diagrama de atividades que represente como será calculado o valor desse benefício.&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;a)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Pergunte a quantidade total de filhos menores de 18 anos&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;b)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Em caso de nenhum filho menor de 18 anos, exiba &quot;Sem bolsa&quot; e finalize. Caso contrário, pergunte o&amp;nbsp;nome e a idade de cada filho menor de 18 anos&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;c)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Calcule o valor da bolsa, sendo que é de &amp;nbsp;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp; &amp;nbsp; 25,00 por filho entre 0 e 3 anos;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp; &amp;nbsp; 20,00 por filho com mais de 3 anos até 16 anos;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp; &amp;nbsp; 15,00 por filho com mais de 16 anos.&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;d)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Exiba o valor total da bolsa e finalize&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="560" width="610" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="QV3TSokJPXYx2DKA6yWl-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QV3TSokJPXYx2DKA6yWl-2" target="QV3TSokJPXYx2DKA6yWl-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="-100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QV3TSokJPXYx2DKA6yWl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QV3TSokJPXYx2DKA6yWl-2" target="QV3TSokJPXYx2DKA6yWl-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QV3TSokJPXYx2DKA6yWl-2" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QV3TSokJPXYx2DKA6yWl-7" target="Bz8TW6A_p7IAcZvbwfBZ-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="-100" />
+              <mxPoint x="2314" y="-100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QV3TSokJPXYx2DKA6yWl-7" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;Exiba&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Barlow, sans-serif&quot; color=&quot;#1d2125&quot;&gt;&lt;span style=&quot;font-size: 14.9489px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&quot;Sem bolsa&quot;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QV3TSokJPXYx2DKA6yWl-9" value="SE TOTALFILHOS =&amp;lt; 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="800" y="150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QV3TSokJPXYx2DKA6yWl-12" value="SE TOTALFILHOS &amp;gt; 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="990" y="430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QV3TSokJPXYx2DKA6yWl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QV3TSokJPXYx2DKA6yWl-13" target="QV3TSokJPXYx2DKA6yWl-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QV3TSokJPXYx2DKA6yWl-13" value="Pergunta O Nome De Cada Filho&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Nome&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QV3TSokJPXYx2DKA6yWl-14" target="yyc5TkGg5EwqhElfNPJe-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QV3TSokJPXYx2DKA6yWl-14" value="Pergunta O Idade De Cada Filho&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IDADE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yyc5TkGg5EwqhElfNPJe-7" target="yyc5TkGg5EwqhElfNPJe-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yyc5TkGg5EwqhElfNPJe-7" target="yyc5TkGg5EwqhElfNPJe-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-7" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-9" value="SE IDADE &amp;gt; 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yyc5TkGg5EwqhElfNPJe-10" target="Bz8TW6A_p7IAcZvbwfBZ-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-10" value="CALCULE O VALOR DA BOLSA&lt;div&gt;&lt;br&gt;&lt;div&gt;$(TOTALBOLSA&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TOTALFILHOS + 25)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1518.75" y="250" width="242.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-12" value="SE IDADE =&amp;lt; 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1535" y="330" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yyc5TkGg5EwqhElfNPJe-13" target="yyc5TkGg5EwqhElfNPJe-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yyc5TkGg5EwqhElfNPJe-13" target="yyc5TkGg5EwqhElfNPJe-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-13" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1865" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-15" value="SE IDADE &amp;gt; 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1715" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-18" value="SE IDADE =&amp;lt; 16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1761.25" y="350" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yyc5TkGg5EwqhElfNPJe-19" target="Bz8TW6A_p7IAcZvbwfBZ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yyc5TkGg5EwqhElfNPJe-19" target="Bz8TW6A_p7IAcZvbwfBZ-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1640" y="-70" />
+              <mxPoint x="2300" y="-70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-19" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="-50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yyc5TkGg5EwqhElfNPJe-28" target="Bz8TW6A_p7IAcZvbwfBZ-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-28" value="CALCULE O VALOR DA BOLSA&lt;div&gt;&lt;br&gt;&lt;div&gt;$(TOTALBOLSA + TOTALFILHO + 20)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1785" y="255" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-33" value="SE IDADE &amp;gt;16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1960" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yyc5TkGg5EwqhElfNPJe-40" target="Bz8TW6A_p7IAcZvbwfBZ-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2185" y="350" />
+              <mxPoint x="2185" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yyc5TkGg5EwqhElfNPJe-40" value="CALCULE O VALOR DA BOLSA&lt;div&gt;&lt;br&gt;&lt;div&gt;(TOTALBOLSA + TOTALFILHOS + 15)&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2080" y="430" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Bz8TW6A_p7IAcZvbwfBZ-1" target="Bz8TW6A_p7IAcZvbwfBZ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-1" value="VALOR TOTAL DA BOLSA&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TOTALBOLSA&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="425" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Bz8TW6A_p7IAcZvbwfBZ-3" target="QV3TSokJPXYx2DKA6yWl-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-3" value="TOTAL DE FILHOS&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SOMAFILHOS&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="425" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Bz8TW6A_p7IAcZvbwfBZ-7" target="yyc5TkGg5EwqhElfNPJe-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-7" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;TOTALFILHOS + 1&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1565" y="80" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bz8TW6A_p7IAcZvbwfBZ-10" target="QV3TSokJPXYx2DKA6yWl-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-10" value="SOMAFILHOS = TOTALFLHOS&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="-40" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="2280" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Bz8TW6A_p7IAcZvbwfBZ-19" target="yyc5TkGg5EwqhElfNPJe-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1905" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-19" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;TOTALFILHOS + 1&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="80" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bz8TW6A_p7IAcZvbwfBZ-22" target="yyc5TkGg5EwqhElfNPJe-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2185" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bz8TW6A_p7IAcZvbwfBZ-22" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;TOTALFILHOS + 1&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2110" y="80" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZZmSU4V-KHha4gLef-9X" name="Execicio 8">
+    <mxGraphModel dx="3488" dy="2148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9b1aiDUnAZFqd-YGPUKK-1" value="&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;8.&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Crie um diagrama de atividade que represente um programa que calcula quanto será o salário líquido do usuário:&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;a)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;O usuário informa seu salário bruto&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;b)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;O programa pergunta se ele recebe algum benefício (&quot;sim&quot; ou &quot;não&quot;). Se &quot;sim&quot;, pergunta o nome e&amp;nbsp;valor do benefício, enquanto o usuário ficar respondendo que &quot;sim&quot;. Quando responder &quot;não&quot;, vá para c)&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;c)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;O programa calcula o desconto do INSS, que é de 10% do bruto&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;d)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;O programa calcula o desconto do IR, que é de 20% do bruto&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;e)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;O programa subtrai do bruto os descontos e depois soma os valores de todos os benefícios informados no item b). Esse valor é o&amp;nbsp;valor do salário líquido&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;f)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;O programa exibe o salário líquido&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="770" width="560" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfQm79JAeUaYPwx_LN7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XpfQm79JAeUaYPwx_LN7-1" target="XpfQm79JAeUaYPwx_LN7-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfQm79JAeUaYPwx_LN7-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfQm79JAeUaYPwx_LN7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XpfQm79JAeUaYPwx_LN7-2" target="XpfQm79JAeUaYPwx_LN7-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfQm79JAeUaYPwx_LN7-2" value="RECEBER SALARIO BRUTO&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SLBRUTO&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="385" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FaNF23KBxkAEI8scCB2M-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XpfQm79JAeUaYPwx_LN7-4" target="FaNF23KBxkAEI8scCB2M-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfQm79JAeUaYPwx_LN7-4" value="SE RECEBE BENEFICIO&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;RCBENEFICIO&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfQm79JAeUaYPwx_LN7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XpfQm79JAeUaYPwx_LN7-6" target="XpfQm79JAeUaYPwx_LN7-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="287.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F9mLd141N67Yq2Unz06U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XpfQm79JAeUaYPwx_LN7-6" target="F9mLd141N67Yq2Unz06U-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfQm79JAeUaYPwx_LN7-6" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1260" y="377.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfQm79JAeUaYPwx_LN7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XpfQm79JAeUaYPwx_LN7-8" target="XpfQm79JAeUaYPwx_LN7-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfQm79JAeUaYPwx_LN7-8" value="PERGUNTA O NOME DO BENEFICIO&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="257.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfQm79JAeUaYPwx_LN7-12" value="RCBENEFICIO = sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="257.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfQm79JAeUaYPwx_LN7-13" value="RCBENEFICIO = não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1365" y="387.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8iRFB09sPtVfdOO3UMB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XpfQm79JAeUaYPwx_LN7-14" target="vkmqlksOGVBtpC-PtWhe-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XpfQm79JAeUaYPwx_LN7-14" value="PERGUNTA O VALOR DO BENEFICIO&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="257.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GfjL77nj9HnG5w_7o8t-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ETVh9rhYjcpcUeScJTbY-8" target="vkmqlksOGVBtpC-PtWhe-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2580" y="417.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2556" y="417.5" />
+              <mxPoint x="2830" y="418.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ETVh9rhYjcpcUeScJTbY-8" value="SUBTRAIR DO SALARIO BRUTO OS DESCONTOS&lt;div&gt;&amp;nbsp;&lt;div&gt;$(GDIR - GDINSS - SLBRUTO)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2360" y="322.5" width="172.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vkmqlksOGVBtpC-PtWhe-6" target="L9E5cAp8QPM-4X0vVCyy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkmqlksOGVBtpC-PtWhe-6" value="CALCULAR O VALOR DO DESCONTO INSS 10%&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$(SLBRUTO - TDINSS)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1635" y="522.5" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vkmqlksOGVBtpC-PtWhe-7" target="L9E5cAp8QPM-4X0vVCyy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkmqlksOGVBtpC-PtWhe-7" value="CALCULAR O VALOR DO DESCONTO IR&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$(SLBRUTO - TDIR )&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="387.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GfjL77nj9HnG5w_7o8t-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vkmqlksOGVBtpC-PtWhe-11" target="2GfjL77nj9HnG5w_7o8t-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vkmqlksOGVBtpC-PtWhe-11" value="&lt;div&gt;SOMAR OS VALRE DE TODOS BENEFICIOS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2580" y="387.5" width="172.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GfjL77nj9HnG5w_7o8t-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2GfjL77nj9HnG5w_7o8t-7" target="2GfjL77nj9HnG5w_7o8t-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2GfjL77nj9HnG5w_7o8t-7" value="VALOR TOTAL DO SALARIO LIQUIDO&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2820" y="387.5" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GfjL77nj9HnG5w_7o8t-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="3030" y="397.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F9mLd141N67Yq2Unz06U-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9mLd141N67Yq2Unz06U-5" target="vkmqlksOGVBtpC-PtWhe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F9mLd141N67Yq2Unz06U-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9mLd141N67Yq2Unz06U-5" target="vkmqlksOGVBtpC-PtWhe-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="552.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F9mLd141N67Yq2Unz06U-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="377.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FaNF23KBxkAEI8scCB2M-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FaNF23KBxkAEI8scCB2M-1" target="FaNF23KBxkAEI8scCB2M-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaNF23KBxkAEI8scCB2M-1" value="TOTAL DESCONTO INSS&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TDINSS&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FaNF23KBxkAEI8scCB2M-3" target="L9E5cAp8QPM-4X0vVCyy-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaNF23KBxkAEI8scCB2M-3" value="TOATL DESCONTO IR&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TDIR&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9E5cAp8QPM-4X0vVCyy-1" target="ETVh9rhYjcpcUeScJTbY-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2210" y="352.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9E5cAp8QPM-4X0vVCyy-1" target="vkmqlksOGVBtpC-PtWhe-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2270" y="457.5" />
+              <mxPoint x="2270" y="532.5" />
+              <mxPoint x="2666" y="532.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="417.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-6" value="SE OUVER DESCONTOS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="322.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-7" value="SE NÃO OUVER DESCONTO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="527.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9E5cAp8QPM-4X0vVCyy-14" target="L9E5cAp8QPM-4X0vVCyy-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2190" y="417.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-14" value="GUARDAR DESCONTO DO IR&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;GDIR&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="387.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9E5cAp8QPM-4X0vVCyy-17" target="L9E5cAp8QPM-4X0vVCyy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-17" value="GUARDAR DESCONTO DO INSS&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;GDINSS&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1885" y="522.5" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9E5cAp8QPM-4X0vVCyy-21" target="XpfQm79JAeUaYPwx_LN7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L9E5cAp8QPM-4X0vVCyy-21" value="NOVO SALDO DO SALARIOS&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;NSALARIO&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dqtnlhAEdxpbhqf8GPJT" name="Exercicio 9">
+    <mxGraphModel dx="872" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BsECqAHhp4hMoNXmyd86-1" value="&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;9&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;. (desafio) Crie um diagrama de atividade que represente o seguinte programa:&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;a)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Receba o primeiro fator de uma multiplicação;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;b)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Receba o segundo fator de uma multiplicação;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;c)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Exiba o resultado da multiplicação, porém a multiplicação deve ser feita com somas sucessivas.&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;OBS: considere apenas números INTEIROS e POSITIVOS&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="560" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="09AfBpRo3SVlBu9r9xeS" name="Exercicio 10">
+    <mxGraphModel dx="872" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="upYp89cqPWzgNFhtP0OK-1" value="&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;10.&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;(desafio). Crie um diagrama de atividade que represente o seguinte programa:&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;a)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Receba o dividendo;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;b)&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Receba o divisor;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;c)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Exiba o resultado da divisão, porém a divisão deve ser feita com subtrações sucessivas;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;d)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Exiba o resto da divisão;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;e)&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Barlow, sans-serif; font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Volte para o item a).&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-family: Barlow, sans-serif; font-weight: bolder; color: rgb(29, 33, 37); font-size: 14.9489px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;OBS: considere apenas números INTEIROS e POSITIVOS&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="560" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

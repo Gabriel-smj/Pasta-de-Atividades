@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peso e Altura</title>
+</head>
+
+<body>
+    <label for="input_peso">Peso</label><br>
+
+    <input id="input_peso" type="text"><br><br>
+
+    <label for="input_altura">Altura</label><br>
+
+    <input id="input_altura" type="text"><br><br>
+
+    <button onclick="fale_comigo()">Fale Comigo</button>
+</body>
+
+</html>
+<script>
+    function fale_comigo() {
+        alert('Você pesa ' + input_peso.value + 'kg' + ' e tem ' + input_altura.value + 'm de altura');
+    }
+</script>

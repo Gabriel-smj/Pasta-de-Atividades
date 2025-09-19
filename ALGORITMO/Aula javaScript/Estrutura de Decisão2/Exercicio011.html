@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--11. Controle da umidade do ar
+Crie um programa que enviará um alerta de acordo com a umidade do ambiente, buscando evitar problemas respiratórios devido à falta de umidade relativa do ar.
+
+a) Pergunte a umidade atual do ambiente.
+b) Ao clicar em "Verificar umidade": 
+
+    b1) Valide se o valor informado está entre 0 e 100% e exiba um alerta de erro caso esteja fora desse intervalo.
+
+    b2) Caso o valor informado esteja dentro do intervalo, exiba a mensagem adequada:
+
+"Estado de Emergencia" (abaixo de 12%)
+"Estado de alerta" (entre 12% e 20%)
+"Estado de atenção" (acima de 20% até 30%)
+"Nenhum risco" (acima de 30%)-->
+
+<label>
+    <span>Qual umidade atual do ambiente?</span><br>
+    <input type="number" id="input_umidade" placeholder="Digite a umidade atual...">
+</label><br><br>
+
+<button onclick="verificarUmidade()">Verificar umidade</button>
+
+<div id="div_mensagem"></div>
+</body>
+</html>
+<script>
+    function verificarUmidade() {
+        var umidade = Number(input_umidade.value);
+        //var umidadeMin = 0;
+        //var umidadeMax = 100;
+        
+        if (umidade < 0) {
+            alert ("Erro! fora desse intervalo");
+        } else if (umidade > 100){
+            alert ("Erro! fora desse intervalo");
+        } else if (umidade < 12) {
+            div_mensagem.innerHTML = `"Estado de Emergencia !!!`;
+        } else if (umidade <= 20) {
+            div_mensagem.innerHTML = `"Estado de alerta!`;
+        } else if (umidade <= 30) {
+            div_mensagem.innerHTML = `"Estado de atenção!`;
+        } else {
+            div_mensagem.innerHTML = `"Nenhum risco!`;
+        } 
+    }
+</script>

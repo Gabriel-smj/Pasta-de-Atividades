@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    Insira um número:
+    <input type="text" id="input_num" />
+    <button onclick="verificar()">Verificar Número</button>
+    <div id="div_mensagem"></div>
+  </body>
+</html>
+<script>
+  /*
+    "if" significa "se" em português, uma palavra que normalmente indica alguma condição.
+    Nós a utilizamos no nosso dia-a-dia em situações como: 
+        "SE estiver calor VOU tomar sorvete"
+        "SE chover VOU abrir guarda-chuva"
+        "SE eu tiver dinheiro VOU comprar uma ferrari"
+    Como podemos analisar, o "se" da condição está atrelado à tomada de alguma decisão.
+
+    Utilizando a palavra-chave "if", o JS entende que está definindo uma "estrutura de decisão", 
+    que é uma estrutura de controle para tomada de decisões de acordo com determinadas condições.
+    
+    Composição da estrutura de decisão no JS: 
+
+        if (condicao) { ...código a ser executado... }
+
+    - if: a palavra reservada que indica ao JS que a seguir será definida uma estrutura de decisão;
+    - (): é a condição de validação, onde CASO A CONDIÇÃO SEJA VERDADEIRA, executa todo o bloco de código delimitado pelas chaves;
+    - {}: as chaves indicam onde nossa estrutura de decisão começa e termina, delimitando o seu conteúdo;
+        o bloco de código das chaves será executado somente caso a condição seja verdadeira;
+
+    Ou seja, quando o código for executado, o "if" será lido;
+    Na sequência, realizará o teste da condição, para validar se a condição é VERDADEIRA;
+    Caso a condição seja verdadeira, executará todo o código que estiver dentro das chaves (igual a uma função);
+    Mas caso a condição seja falsa, ignorará todo o bloco de código que está vinculado ao if (delimitado pelas chaves {});
+
+    Para realizar as validações, temos os operadores RELACIONAIS, que servem para comparar valores 
+    Ao utilizar esses operadores, o resultado sempre será verdadeiro ou falso, como: 
+        +----------+----------------+---------+------------+
+        | operador | descrição      | exemplo | resultado  |
+        +----------+----------------+---------+------------+
+        |    <     | menor que      | 5 < 10  | verdadeiro |
+        |    >     | maior que      | 5 > 10  | falso      |
+        |    <=    | menor ou igual | 5 <= 9  | verdadeiro |
+        |    >=    | maior ou igual | 5 >= 2  | falso      |
+        |    ==    | igual a        | 5 == 5  | verdadeiro |
+        |    !=    | diferente de   | 5 != 2  | verdadeiro |
+        +----------+----------------+---------+------------+
+  */
+
+  function verificar() {
+    var num = Number(input_num.value);
+
+    div_mensagem.innerHTML = `Número inserido: ${num}!<br>`;
+
+    if (num > 50) {
+      div_mensagem.innerHTML += `O número ${num} é maior que 50<br>`;
+    } else { // caso falhe na validação anterior (ou seja, se o número for menor ou igual a 50), executa o else automaticamente
+      div_mensagem.innerHTML += `O número ${num} é menor ou igual a 50`;
+    }
+
+    /*
+      "else" significa "senão" em português, uma palavra que normalmente indica alguma condição.
+      Nós a utilizamos no nosso dia-a-dia em situações que temos duas condições, sendo normalmente associada à segunda condição, como: 
+          - "se eu tiver dinheiro, vou ao shopping, SENÃO vou à praça";
+          - "se estiver frio, vou usar tênis, SENÃO vou usar sandália;
+          - "se minha mãe deixar, vou brincar, SENÃO vou estudar";
+      Como podemos analisar, o "SE" da condição está atrelado a tomada da primeira decisão.
+      E o "SENÃO", está atrelado a outra tomada de decisão, normalmente CONTRÁRIA a condição do "SE".
+
+
+      Composição da estrutura de decisão "if else":
+      
+          if (condicao) { 
+              ...comandos primeiro cenário...   
+          } else {   
+              ...comandos segundo cenário...   
+          }
+
+          - if: palavra-chave que indica a definição de uma estrutura de decisão;
+          - (condicao): validação que será realizada, onde:
+              -- caso a condição seja VERDADEIRA, executará o bloco de comandos "IF", ignorando o bloco "ELSE" 
+              -- caso a condição seja FALSA, ignorará o bloco "IF" e executará somente o bloco de comandos do "ELSE";
+          - {}: as chaves indicam onde nosso bloco de instruções começa e termina, delimitando o seu conteúdo;
+          - else: palavra-chave que indica a continuação de uma estrutura de decisão, representando o cenário contrário do "IF";
+              -- não existe condição para o ELSE, afinal, está implícito que ele é o contrário do IF
+    */
+  }
+</script>

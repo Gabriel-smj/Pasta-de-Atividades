@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle Financeiro</title>
+</head>
+
+<body>
+    <!--3. Controle Financeiro Mensal de uma empresa
+
+Crie um programa que:  
+
+a) Solicite o valor recebido com a venda de peças
+
+b) Solicite o valor recebido com a venda de serviços
+
+c) Solicite o percentual de imposto sobre os valores recebidos
+
+d) Solicite o valor dos gastos realizados no mês 
+
+e) Tenha o botões “Acumular” que quando clicado emite a mensagem abaixo:
+
+Resumo do mês XX, 
+Total recebido = R$ aaaaa,aa – Valor do Imposto = R$ bbbb,bb
+ – Saldo Final de R$ cccc,cc – Acumulado até o Momento = R$ dddd,dd
+
+OBS1:
+
+  XX é a sequência dos meses, 1, 2, e assim por diante
+
+  aaa,aa é a soma dos dois valores recebidos (item a e item b)
+
+  bbb,bb é o percentual de imposto (item c) aplicado em aaa,aa
+
+  ccc,cc é o valor de aaa,aa subtraído dos gastos (item d) e do imposto (bbb,bb)
+
+OBS2: ao exibir a mensagem não apagar as mensagens anteriores-->
+
+    <label>
+        <span>qual o valor das peças?</span>
+        <input type="text" id="ipt_pecas" placeholder="Digite o valor...">
+    </label><br><br>
+
+    <label>
+        <span>Qual o valor dos serviços?</span>
+        <input type="text" id="ipt_servicos" placeholder="Digite o valor...">
+    </label><br><br>
+
+    <label>
+        <span>Qual o percentual de imposto ?</span>
+        <input type="text" id="ipt_imposto" placeholder="Digite o valor...">
+    </label><br><br>
+    <label>
+        <span>Qual os gastos realizados no mês ?</span>
+        <input type="text" id="ipt_gastos" placeholder="Digite o valor...">
+    </label><br><br>
+
+    <button onclick="acumular()">Acumular</button>
+
+    <div id="div_mensagem"></div>
+
+
+</body>
+
+</html>
+<script>
+    var mes = 0;
+    var acumulado = 0;
+
+    function acumular() {
+        mes++
+        var pecas = Number(ipt_pecas.value)
+        var servico = Number(ipt_servicos.value)
+        var percentual = Number(ipt_imposto.value)
+        var gastos = Number(ipt_gastos.value)
+
+        var total = pecas + servico
+        var imposto = percentual / 100 * total
+        var final = total - gastos - imposto
+
+        acumulado += final
+
+
+
+        div_mensagem.innerHTML += `Resumo do mês ${mes}, <br>
+        Total recebido = R$ ${total}<br>
+        Valor do Imposto = R$ ${imposto}<br>
+        Saldo Final de R$ ${final}<br>
+        Acumulado até o Momento = R$ ${acumulado}<br><br>`
+    }
+</script>

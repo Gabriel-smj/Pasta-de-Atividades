@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Rola a pizza</title>
+</head>
+
+<body>
+    <!--5. Rola a pizza - parte-2
+
+Refaça a questão anterior de tal forma que a frase do item d) apareça na cor de letra vermelha com itálico e negrito.-->
+
+
+    <label>
+        <span>Valor da pizza?</span><br>
+        <input type="text" id="ipt_valor" placeholder="Digite o valor...">
+    </label><br><br>
+    <label>
+        <span>Quantidade de amigos reunidos?</span><br>
+        <input type="text" id="ipt_amigos" placeholder="Digite a quantidade...">
+    </label><br><br>
+
+    <button onclick="pizza()">Rola a pizza?</button>
+
+    <div id="div_mensagem"></div>
+</body>
+
+</html>
+<script>
+    function pizza() {
+        var valor = Number(ipt_valor.value)
+        var amigos = Number(ipt_amigos.value)
+        var calculo = valor / amigos
+
+        div_mensagem.innerHTML = `<br>Cada amigo vai pagar R$${calculo} pela pizza<br>`
+        if (calculo > 20) {
+            div_mensagem.innerHTML += `<span style="color: red; font-style: italic; font-weight: bold;" >Deu ruim! Pizza muito cara!</span>`
+        }
+
+    }
+</script>
+</body>
+
+</html>

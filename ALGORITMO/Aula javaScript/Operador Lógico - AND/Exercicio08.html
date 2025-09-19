@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Seguro</title>
+</head>
+<body>
+    <!--8. Login Seguro: Verificação em Duas Etapas!
+Crie um programa que simula um pequeno sistema de login assim:  
+
+a) Pergunte o login do usuário; 
+b) Pergunte a senha do usuário; 
+
+c) Pergunte o código de segurança do usuário (é como se fosse uma segunda senha, só isso)  
+
+d) Ao clicar em "Entrar": 
+
+   Caso o login seja "SPTech" e a senha seja "digital" e o código de segurança seja "123", exibir um alert com a frase "Usuário autenticado com sucesso" 
+
+   Caso contrário, exibir um alert com "Falha na autenticação"  -->
+
+<label>
+    <span>Login:</span><br>
+    <input type="text" id="input_login" placeholder="Digite seu login...">
+</label><br><br>
+<label>
+    <span>Senha:</span><br>
+    <input type="text" id="input_senha" placeholder="Digite sua senha...">
+</label><br><br>
+
+<label>
+    <span>Qual o codigo de segurança?</span><br>
+    <input type="number" id="input_codigo" placeholder="Digite o codigo...">
+</label><br><br>
+
+<button onclick="entrar()">Entrar</button>
+</body>
+</html>
+<script>
+    function entrar () {
+        var login = input_login.value;
+        var senha = input_senha.value;
+        var codigo = Number(input_codigo.value);
+
+        if (login == 'SPTECH' && senha == 'digital' && codigo == 123) {
+            alert ('Usuário autenticado com sucesso');
+        } else {
+         alert('Falha na autenticação')   
+        }
+    }
+</script>

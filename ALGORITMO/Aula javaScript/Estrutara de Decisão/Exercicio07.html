@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Exercicio07.css">
+    <title>Financiamento da Casa própria</title>
+</head>
+
+<body>
+    <!--7. Financiamento da Casa própria 
+
+Crie um programa que auxilie um banco a identificar quem tem renda o suficiente para fazer o financiamento da casa própria.  
+
+a) Solicite o valor da renda familiar 
+
+b) Solicite o valor da prestação 
+
+c) Ao clicar em "Verificar financiamento", exiba na página a mensagem "A prestação corresponde a XX% da renda familiar" (divida a prestação pela renda e multiplique por 100) 
+
+d) Se o valor calculado acima for maior que 30%, exiba também a mensagem abaixo em negrito e em vermelho: 
+
+    "Será necessário complementar a renda familiar"   -->
+
+    <label>
+        <span>Valor da renda familiar?</span><br>
+        <input type="text" id="ipt_renda" placeholder="Digite aqui...">
+    </label><br><br>
+    <label>
+        <span>Valor da prestação?</span><br>
+        <input type="text" id="ipt_prestacao" placeholder="Digite aqui...">
+    </label><br><br>
+
+    <button onclick="financiamento()">Verificar financiamento</button>
+    <div id="div_mensagem"></div>
+
+    
+</body>
+
+</html>
+<script>
+    function financiamento() {
+        var renda = Number(ipt_renda.value)
+        var prestacao = Number(ipt_prestacao.value)
+        var divisao = prestacao / renda 
+        var resultado = divisao * 100 
+
+        div_mensagem.innerHTML = `<br>A prestação corresponde a ${resultado.toFixed(2)}% da renda familiar<br>`
+
+        if (resultado >30) {
+            div_mensagem.innerHTML += `<p style="color: red; font-weight: bold;">Será necessário complementar a renda familiar</p>`
+        }
+         
+        
+    }
+</script>
